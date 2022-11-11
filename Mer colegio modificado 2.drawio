@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T13:24:50.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="GnK6ehn6TQkFAkcAKPvX" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T13:34:09.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="KaOErpOWMh8WqmzfuyMq" version="20.5.3" type="github">
   <diagram id="bdnQ-0BhdI4TAcYdlH-2" name="Página-1">
     <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -316,7 +316,7 @@
             <mxPoint x="1105" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2GNbs6HTa_5csAcw25Do-21" value="&lt;i&gt;Realiza&lt;/i&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="2GNbs6HTa_5csAcw25Do-21" value="&lt;i&gt;Tiene&lt;/i&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2GNbs6HTa_5csAcw25Do-24" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2GNbs6HTa_5csAcw25Do-21" target="xwqHHCTengvlu3q1u-sC-16" edge="1">
